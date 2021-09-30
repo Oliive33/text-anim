@@ -51,5 +51,7 @@ typewriter
   .typeString('<span style="color: #2ab666">web developer</span>')
   .pauseFor(300)
   .deleteChars(24)
-  .typeString('<span style="color:#5c64d5;">See you soon your projects.</span>')
+  .typeString(
+    '<span style="color:#5c64d5;">See you soon for your projects.</span>'
+  )
   .start();
